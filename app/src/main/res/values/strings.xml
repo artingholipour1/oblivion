@@ -1,16 +1,16 @@
 <resources>
-  <string name="app_name" translatable="false">Oblivion</string>
+  <string name="app_name" translatable="false">bygo</string>
   <string name="stateText">Not Connected</string>
   <string name="basedOnWarp">Based on Warp</string>
-  <string name="aboutApp">About the App</string>
-  <string name="aboutAppDesc">"This application is designed to access the internet freely, and any commercial use of it is prohibited.\n\n\n Internet for all, or no one! "</string>
+  <string name="aboutApp"></string>
+  <string name="aboutAppDesc">" "</string>
   <string name="appVersion">App Version: 8</string>
   <string name="logApp">App Log</string>
-  <string name="means" formatted="true">Means \"unawareness, ignorance\"</string>
+  <string name="means" formatted="true">Means "unawareness, ignorance"</string>
   <string name="dontForget">Don\'t Forget!</string>
-  <string name="segaro">#Segaro</string>
-  <string name="yousef">#Yousef_Ghobadi</string>
-  <string name="slogan">Internet for All, or No One</string>
+  <string name="segaro">bygo</string>
+  <string name="yousef">best vpn</string>
+  <string name="slogan">fast and free</string>
   <string name="blackList">Blacklist</string>
   <string name="disabledR">Disabled</string>
   <string name="disabledRText">In disabled mode, traffic of all apps passes through VPN.</string>
@@ -137,5 +137,5 @@
     <item>tr</item> <!-- Turkish -->
     <item>zh</item> <!-- Chinese -->
   </string-array>
-  <string name="splashText">With the efforts of #Yousef_Ghobadi and dozens of well-known or anonymous activists, for the purpose of providing free access to the internet for people…</string>
+  <string name="splashText">bygo</string>
 </resources>
